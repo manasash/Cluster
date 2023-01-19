@@ -1,1 +1,2 @@
-# Cluster
+# Cluster in keymanagement :
+Wireless Sensor Network(WSN) consists of huge number of sensor nodes which has the capability of sensing physical phenomenon around them. This sensed data is transmitted in the network, which may get altered maliciously by an attacker. So security is the major concern to safely preserve this data. To do so, various cryptographic keys are used and these keys should be managed and maintained properly with optimum resources. These operations are regulated by Key Management Schemes (KMS).
